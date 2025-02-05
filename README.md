@@ -19,7 +19,7 @@
 
 <h3>🌐 Live Demo</h3>
 <h4>🔗 Try the live version of the app here:</h4>
-<h4><a href="#">Drumkit 🥁✨</a></h4>
+<h4><a href="https://dev-kiddo.github.io/Drum-kit/">Drumkit 🥁✨</a></h4>
 
 ---
 
